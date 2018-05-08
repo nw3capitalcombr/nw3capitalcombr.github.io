@@ -6,7 +6,7 @@
 a,
 a:focus,
 a:hover {
-  color: #fff;
+  color: #979797;
 }
 
 /* Custom default button */
@@ -99,8 +99,13 @@ body {
 }
 
 
-.list-group, .list-group-item {
-  background: #000
+.list-group {
+  background: #000;
+}
+
+.list-group-item {
+ background: #000;
+  border-color: white;
 }
 
 /*
