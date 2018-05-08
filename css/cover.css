@@ -99,6 +99,10 @@ body {
 }
 
 
+.list-group, .list-group-item {
+  background: #000
+}
+
 /*
  * Footer
  */
