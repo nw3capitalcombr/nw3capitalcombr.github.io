@@ -105,7 +105,14 @@ body {
 
 .list-group-item {
  background: #000;
+}
+
+.first-menu {
   border-color: white;
+}
+
+.documents-menu {
+  padding-left: 60px;
 }
 
 /*
